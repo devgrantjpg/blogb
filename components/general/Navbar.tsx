@@ -12,11 +12,11 @@ export function Navbar() {
                 </h1>
              </Link>
              <div className="hidden sm:flex items-center gap-6">
-                <Link href="" className="text sm font-medium hover:text-blue-500 transition-colors">
+                <Link href="/" className="text sm font-medium hover:text-blue-500 transition-colors">
                 Home 
                 </Link>
-                 <Link href="" className="text sm font-medium hover:text-blue-500 transition-colors">
-                Dashboard
+                 <Link href="https://0101z010a.vercel.app/" className="text sm font-medium hover:text-blue-500 transition-colors">
+                Code Editor
                 </Link>
 
              </div>
