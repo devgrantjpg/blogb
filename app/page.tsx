@@ -66,70 +66,70 @@ export default function Home() {
           }}
         >
           {/* Manually written product blocks with <Link> */}
-          <Link href="/products/1">
+          <Link href="/circe">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/circe.jpg" alt="Circe" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Circe</p>
             </div>
           </Link>
 
-          <Link href="/products/2">
+          <Link href="/thelordoftherings">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thelordoftheRings.jpg" alt="The Lord of the Rings" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Lord of the Rings</p>
             </div>
           </Link>
 
-          <Link href="/products/3">
+          <Link href="/aworldalone">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/aworldalonebook.jpg" alt="A World Alone" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>A World Alone</p>
             </div>
           </Link>
 
-          <Link href="/products/4">
+          <Link href="/lovestory">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/lovestorybook.jpg" alt="Love Story" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Love Story</p>
             </div>
           </Link>
 
-          <Link href="/products/5">
+          <Link href="/thebookofdoorsbook">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thebookofdoorsbook.jpg" alt="The Book of Doors" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Book of Doors</p>
             </div>
           </Link>
 
-          <Link href="/products/6">
+          <Link href="/funnystory">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/funnystorybook.jpg" alt="Funny Story" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Funny Story</p>
             </div>
           </Link>
 
-          <Link href="/products/7">
+          <Link href="/thehauntedcar">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thehauntedcar.jpg" alt="The Haunted Car" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Haunted Car</p>
             </div>
           </Link>
 
-          <Link href="/products/8">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/goosebumpsHorrorland.jpg" alt="Goosebumps Horror Land" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Goosebumps Horror Land</p>
             </div>
           </Link>
 
-          <Link href="/products/9">
+          <Link href="/themummystomb">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/goosebumpsMummy.jpg" alt="Goosebumps Mummy" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Goosebumps Mummy</p>
             </div>
           </Link>
 
-          <Link href="/products/10">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/goosebumpstalesofHorror.jpg" alt="Goosebumps Tales of Horror" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Goosebumps Tales of Horror</p>
