@@ -28,8 +28,8 @@ export async function Navbar() {
 
           {user ? (
             <div>
-                <p>{user.given_name}</p>
-                <LogoutLink>Logout</LogoutLink>
+                <p className="flex items-center gap-4">{user.given_name}</p>
+                <LogoutLink className={buttonVariants({ variant: 'secondary'})}>Logout</LogoutLink>
             </div>
           ): (
                         <div className="flex items-center gap-6">
