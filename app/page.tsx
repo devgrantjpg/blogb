@@ -94,7 +94,7 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="./thebookofdoorsbook">
+          <Link href="./thebookofdoors">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thebookofdoorsbook.jpg" alt="The Book of Doors" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Book of Doors</p>
