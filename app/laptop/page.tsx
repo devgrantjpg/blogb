@@ -49,8 +49,8 @@ export default function Lovestory() {
         <Image
           src="/bookimgs/byonelaptop.jpg"
           alt="Love Story Book Cover"
-          width={200}
-          height={300}
+          width={400}
+          height={500}
           style={{ objectFit: 'cover' }}
         />
       </div>
