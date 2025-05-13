@@ -55,7 +55,7 @@ export default function Lovestory() {
         />
       </div>
 
-      <p style={styles.description}>Update: Our laptop supplies will take around 5 business days longer then usual until end of June! thanks. Pls note that shipping is free!
+      <p style={styles.description}>Update: Our laptop supplies will take around 5 business days longer than usual until end of June! thanks. Pls note that shipping is free!
       Next you'll need a laptop! We've selected and a featured Laptop package for our Customers. Searching for a modern laptop from a trusted supplier are essential, especially for the price $339.99, this includes our shipping and delivery fees. We can also offer express shipping. (For this Featured Product) Standard free shipping has an already fair shipping time at around 10 business days. Other products with standard shipping can take up to 14 business days. This product uses the most modern hardware you'll find with any brand. </p>
       <p style={styles.description}>
       256gb 8gb RAM Laptop
