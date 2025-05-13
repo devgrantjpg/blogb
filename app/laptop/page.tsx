@@ -66,7 +66,6 @@ export default function Lovestory() {
 
       <p style={{ color: '#bbb' }}>Tax included</p>
       <p style={{ color: '#bbb' }}>Free shipping</p>
-      <p style={{ color: '#bbb' }}>Paperback Novel</p>
 
       <Link href="https://www.paypal.com/ncp/payment/KEH54ARN2PC3J" passHref>
         <Button style={styles.button}>Buy</Button>
