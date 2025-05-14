@@ -18,7 +18,7 @@ export async function Navbar() {
                 <Link href="/" className="text sm font-medium hover:text-blue-500 transition-colors">
                 Home 
                 </Link>
-                 <Link href="https://0101z010a.vercel.app/" className="text sm font-medium hover:text-blue-500 transition-colors">
+                 <Link href="https://v0-codegit-app.vercel.app/" className="text sm font-medium hover:text-blue-500 transition-colors">
                 Code Editor
                 </Link>
                  <Link href="/laptop" className="text sm font-medium hover:text-blue-500 transition-colors">
