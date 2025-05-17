@@ -19,7 +19,7 @@ export async function Navbar() {
                 Home 
                 </Link>
                  <Link href="https://v0-codegit-app.vercel.app/" className="text sm font-medium hover:text-blue-500 transition-colors">
-                Code Editor
+                CodeGit
                 </Link>
                  <Link href="/laptop" className="text sm font-medium hover:text-blue-500 transition-colors">
                 Featured Products
